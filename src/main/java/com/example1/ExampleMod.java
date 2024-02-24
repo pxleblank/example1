@@ -23,5 +23,4 @@ public class ExampleMod implements ModInitializer {
 		FuelR.register();
 		ExampleItemGroup.register();
 	}
-
 }
