@@ -19,6 +19,6 @@ public class ExampleMod implements ModInitializer {
 	public void onInitialize() {
 		ExampleItem.register();
 		FuelR.register();
-		ExampleItemGroup.register();
+		ExampleItemGroup.registerItemGroups();
 	}
 }

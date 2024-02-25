@@ -1,5 +1,6 @@
 {
   "item.example1.custom_item" : "Example 1",
-  "itemGroup.example1.item_group" : "Example Group 1",
-  "item.example1.custom_item.tooltip" : "fuel"
+  "item.example1.custom_item.tooltip" : "fuel",
+
+  "itemGroup.example1.item_group" : "Example Group 1"
 }

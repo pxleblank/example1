@@ -1,5 +1,6 @@
 {
   "item.example1.custom_item" : "Пример 1",
-  "itemGroup.example1.item_group" : "Пример группы 1",
-  "item.example1.custom_item.tooltip" : "топливо"
+  "item.example1.custom_item.tooltip" : "топливо",
+
+  "itemGroup.example1.item_group" : "Пример группы 1"
 }
